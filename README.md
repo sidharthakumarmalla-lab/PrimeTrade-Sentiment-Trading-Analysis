@@ -93,22 +93,31 @@ Analyzed:
 ### Long vs Short PnL by Sentiment
 
 Compares profitability of long and short positions under different market conditions.
+<img width="1436" height="742" alt="Long vs Short PnL by Sentiment" src="https://github.com/user-attachments/assets/ec41bbc3-aa9a-46b1-8ba4-fdbfdc8aba6e" />
+
 
 ### Monthly PnL vs Fear & Greed Index
 
 Tracks profitability alongside market sentiment over time.
+<img width="1375" height="692" alt="Monthly PnL vs Fear   Greed Index" src="https://github.com/user-attachments/assets/469be9cf-7022-457d-9c65-1ebb537e40bd" />
+
 
 ### Top 10 Most Profitable Coins
 
 Identifies the assets contributing the highest realized profits.
+<img width="1325" height="735" alt="Top 10 Most Profitable Coins" src="https://github.com/user-attachments/assets/d8f2ae82-72d6-443f-9fde-96de8680b61b" />
+
 
 ### Top 10 Traders by Closed PnL
 
 Ranks traders based on cumulative realized profit.
+<img width="1423" height="700" alt="Top 10 Traders by Closed PnL" src="https://github.com/user-attachments/assets/dc7d07fb-36eb-4afb-a6d1-6c3e542a86dd" />
+
 
 ### PnL Distribution by Market Sentiment
 
 Examines the spread and volatility of profits across market conditions.
+<img width="1290" height="690" alt="PnL Distribution by Market Sentiment" src="https://github.com/user-attachments/assets/ddc53fd6-0655-4318-9264-b12f49a19a7e" />
 
 ---
 
@@ -172,9 +181,7 @@ PrimeTrade-Sentiment-Trading-Analysis/
 ├── outputs/
 │   ├── charts/
 │   └── report.pdf
-│
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
